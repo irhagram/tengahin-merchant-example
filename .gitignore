@@ -1,0 +1,6 @@
+# Rahasia: API key, hash sandi admin, secret sesi
+.env
+# Data toko: produk, pesanan, dan file yang di-upload
+data/
+node_modules
+*.log

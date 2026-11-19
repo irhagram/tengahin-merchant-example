@@ -1,0 +1,18 @@
+{
+  "name": "tengahin-merchant-example",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Contoh toko dengan pembayaran QRIS Tengahin Merchant: setup lewat web, upload produk, unduh setelah bayar.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "@tengahin/sdk": "github:OWNER/tengahin-merchant-sdk",
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
+  }
+}
