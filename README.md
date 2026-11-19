@@ -18,7 +18,7 @@ Yang bisa kamu lakukan dengan contoh ini:
 
 ```bash
 # 1. Unduh proyek ini
-git clone https://github.com/OWNER/tengahin-merchant-example.git
+git clone https://github.com/irhagram/tengahin-merchant-example.git
 cd tengahin-merchant-example
 
 # 2. Pasang dependensi
